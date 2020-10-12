@@ -1,11 +1,11 @@
 ### Hello Everyone 👋
 
 <b>My Name: Ramli
-I am a beginner in programming and a designer and still are
+I am a beginner in 💻 programming and a designer and still are
 learning stage.
 
 <b>Hobbies:
-Listen to music, and
+🎧Listen to music, and
 vector potrait design
   
 <b>Account :<br>
