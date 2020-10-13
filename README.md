@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-<b>My Name: Ramli <br>
+<b>My Name Is Ramli <br>
 I am a beginner in 💻 programming and a designer and still are
 learning stage.
 
