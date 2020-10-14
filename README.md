@@ -1,18 +1,18 @@
 ### Hello Everyone 👋
 
-<b>My Name: Ramli
-I am a beginner in programming and a designer and still are
+<b>My Name Is Ramli <br>
+I am a beginner in 💻 programming and a designer and still are
 learning stage.
 
 <b>Hobbies:
-Listen to music, and
+🎧Listen to music, and
 vector potrait design
   
 <b>Account :<br>
 <a href="https://www.instagram.com/ramlipr/"> Instagram : @ramlipr</a>  <br>
 <a href="www.youtube.com/c/Rifars">youtube : </a> www.youtube.com/c/Rifars 
 
-<b> I hope there is someone who wants to be friends with 
+<b> I hope there is someone who wants to be friends with me
 <!--
 **Rifars/Rifars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
