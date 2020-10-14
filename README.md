@@ -1,5 +1,5 @@
 ### Hello Everyone 👋
-
+  <img src ="img/my logo-1.jpg" width=200px >
 <b>My Name Is Ramli <br>
 I am a beginner in 💻 programming and a designer and still are
 learning stage.
